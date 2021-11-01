@@ -8,4 +8,5 @@ Libries Used:
 4.  Mutagen
 5.  Pillow
 
-![MP3_Player_Version_1 0](https://user-images.githubusercontent.com/58274552/139030314-52e3cc6b-63c9-4e84-941e-bbf5bda533f0.PNG)
+
+![UI](https://user-images.githubusercontent.com/58274552/139652490-9558a80e-18c1-4342-bb7e-5fc689bfdefa.PNG)
